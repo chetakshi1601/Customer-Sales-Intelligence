@@ -1,5 +1,5 @@
 ## 🎥 Dashboard key insights 
-Below is the interactive customer segmentation dashboard created using Power BI:
+Below is the interactive Customer Sales Intelligence Dashboard dashboard created using Power BI:
 
 ![Customer Dashboard](customer_shopping.png)
 📊 1. Revenue & Customer Overview
